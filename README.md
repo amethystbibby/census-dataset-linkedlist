@@ -1,6 +1,6 @@
 # census-dataset-linkedlist
 ![Census Dataset Visualisation](censusDataset.jpg)
-This C program creates a simple dictionary to store data from the Melbourne Census implemented with a linked list. This was created for Project 1 of COMP20003 (Algorithms and Data Structures) at the University of Melbourne in 2020.
+This C program creates a simple dictionary to store data from the Melbourne Census implemented with a linked list.
 
 ## About this program
 A dictionary is an abstract datatype in C that stores and supports lookup of key, value pairs. It has been implemented by storing each key, value pair as a node in a linked list.
