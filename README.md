@@ -1,4 +1,5 @@
 # census-dataset-linkedlist
+![Census Dataset Visualisation](censusDataset.png)
 This C program creates a simple dictionary to store data from the Melbourne Census implemented with a linked list. This was created for Project 1 of COMP20003 (Algorithms and Data Structures) at the University of Melbourne in 2020.
 
 ## About this program
